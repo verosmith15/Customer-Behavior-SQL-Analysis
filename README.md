@@ -1,4 +1,4 @@
-# 🎧 Chinook Digital Music Store: Strategic SQL Analysis
+# Chinook Digital Music Store: Strategic SQL Analysis
 
 ## Business Executive Summary
 This project transforms raw transactional data from a digital music store (Chinook Database) into actionable business intelligence. As a **Business & Data Analyst**, I answered three critical strategic questions to optimize operations and revenue.
@@ -12,8 +12,7 @@ This project transforms raw transactional data from a digital music store (Chino
 
 **Recommendation:** Implement a VIP Loyalty Program focusing on the top 20% of customers (Pareto Principle) to ensure retention and increase their lifetime value.
 
-!
-*(Include your `vip_customers.png` here)*
+![VIP Analysis](cuadro_8020.png)
 
 ---
 
@@ -22,8 +21,7 @@ This project transforms raw transactional data from a digital music store (Chino
 
 **Recommendation:** Although niche, we should expand the catalog and promotional efforts for higher-ticket genres (like TV Shows) to increase the overall average order value.
 
-!
-*(Include your `genre_profit.png` here)*
+![Genre Analysis](cuadro_genero.png)
 
 ---
 
@@ -32,8 +30,7 @@ This project transforms raw transactional data from a digital music store (Chino
 
 **Recommendation:** Analyze the sales techniques and client interaction strategies used by the top performer to create a "Best Practices" playbook for the entire team.
 
-!
-*(Include your `employee_performance.png` here)*
+![Employee Analysis](cuadro_empleados.png)
 
 ---
 
